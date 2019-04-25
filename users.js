@@ -1,0 +1,1 @@
+module.exports=[{"name":"wetrwer","username":"wert","email":"ak@gm.com","date":"2019-04-25T18:35:58.334Z","id":1}]
